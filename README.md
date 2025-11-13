@@ -4,7 +4,10 @@
 # Segmentasi Pelanggan Menggunakan RFM dan K-Means Clustering
 
 ## Pendahuluan
-Proyek ini bertujuan untuk melakukan segmentasi pelanggan pada dataset retail online menggunakan analisis RFM (Recency, Frequency, Monetary) dan algoritma K-Means Clustering. Tujuannya adalah untuk mengidentifikasi kelompok pelanggan yang berbeda berdasarkan perilaku pembelian mereka, sehingga perusahaan dapat mengembangkan strategi pemasaran yang lebih personal dan efektif.
+Proyek ini bertujuan untuk melakukan segmentasi pelanggan pada dataset retail online menggunakan
+analisis RFM (Recency, Frequency, Monetary) dan algoritma K-Means Clustering. Tujuannya adalah
+untuk mengidentifikasi kelompok pelanggan yang berbeda berdasarkan perilaku pembelian mereka,
+sehingga perusahaan dapat mengembangkan strategi pemasaran yang lebih personal dan efektif.
 
 ## Dataset
 Dataset yang digunakan adalah **Online Retail Data Set** yang umumnya tersedia di Kaggle. Dataset ini berisi transaksi retail dari tanggal 01/12/2010 hingga 09/12/2011 untuk retail online yang berbasis di Inggris.
