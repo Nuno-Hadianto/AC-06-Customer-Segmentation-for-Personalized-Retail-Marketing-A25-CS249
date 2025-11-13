@@ -33,7 +33,8 @@ Proyek ini dibagi menjadi beberapa tahapan utama:
     *   **Monetary**: Total pengeluaran pelanggan.
 
 ### 3. Normalisasi Data
-*   Menggunakan `StandardScaler` dari `sklearn.preprocessing` untuk menormalisasi metrik RFM (`Recency`, `Frequency`, `Monetary`). Ini penting agar setiap fitur berkontribusi secara proporsional dalam proses clustering.
+*   Menggunakan `StandardScaler` dari `sklearn.preprocessing` untuk menormalisasi metrik RFM (`Recency`, `Frequency`, `Monetary
+`). Ini penting agar setiap fitur berkontribusi secara proporsional dalam proses clustering.
 
 ### 4. Menentukan Jumlah Cluster Optimal (K)
 *   **Metode Elbow**: Menganalisis plot _inertia_ terhadap berbagai nilai K untuk mencari 'siku' yang menunjukkan titik optimal.
