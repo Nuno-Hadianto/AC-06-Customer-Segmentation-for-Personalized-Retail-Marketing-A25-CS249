@@ -48,7 +48,8 @@ dalam clusternya sendiri dibandingkan dengan cluster lain.
 
 ### 6. Visualisasi Hasil Clustering
 *   Menghitung rata-rata RFM untuk setiap cluster untuk memahami karakteristiknya.
-*   Membuat *scatter plot* 2D (Recency vs Frequency, Recency vs Monetary, Frequency vs Monetary) untuk memvisualisasikan sebaran cluster.
+*   Membuat *scatter plot* 2D (Recency vs Frequency, Recency vs Monetary, Frequency vs Monetary) untuk memvisualisasikan
+sebaran cluster.
 *   Membuat *scatter plot* 3D untuk melihat ketiga dimensi RFM secara bersamaan.
 *   Membuat *heatmap* dari rata-rata RFM per cluster dan *bar chart* distribusi pelanggan per cluster.
 
@@ -59,7 +60,8 @@ dalam clusternya sendiri dibandingkan dengan cluster lain.
     *   **Cluster 2: Whale/Best Spenders** (Recency sangat rendah, Frequency sangat tinggi, Monetary sangat tinggi)
     *   **Cluster 3: Big Spenders / Potential Loyalists** (Recency rendah, Frequency tinggi, Monetary sangat tinggi)
 *   Diberikan rekomendasi strategi pemasaran yang spesifik untuk setiap segmen pelanggan.
-*   **Validasi Cluster Lanjutan**: Melakukan uji ANOVA untuk Recency, Frequency, dan Monetary untuk memvalidasi bahwa perbedaan rata-rata antar cluster adalah signifikan secara statistik.
+*   **Validasi Cluster Lanjutan**: Melakukan uji ANOVA untuk Recency, Frequency, dan Monetary untuk memvalidasi bahwa
+perbedaan rata-rata antar cluster adalah signifikan secara statistik.
 
 ## Cara Mereplikasi
 Untuk mereplikasi analisis ini, ikuti langkah-langkah berikut:
