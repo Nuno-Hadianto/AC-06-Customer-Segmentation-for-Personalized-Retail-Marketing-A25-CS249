@@ -10,7 +10,9 @@ untuk mengidentifikasi kelompok pelanggan yang berbeda berdasarkan perilaku pemb
 sehingga perusahaan dapat mengembangkan strategi pemasaran yang lebih personal dan efektif.
 
 ## Dataset
-Dataset yang digunakan adalah **Online Retail Data Set** yang umumnya tersedia di Kaggle. Dataset ini berisi transaksi retail dari tanggal 01/12/2010 hingga 09/12/2011 untuk retail online yang berbasis di Inggris.
+Dataset yang digunakan adalah **Online Retail Data Set** yang umumnya tersedia di Kaggle. Dataset ini
+berisi transaksi retail dari tanggal 01/12/2010 hingga 09/12/2011 untuk retail online yang berbasis di
+Inggris.
 
 ## Metodologi
 Proyek ini dibagi menjadi beberapa tahapan utama:
