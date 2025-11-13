@@ -38,7 +38,8 @@ Proyek ini dibagi menjadi beberapa tahapan utama:
 
 ### 4. Menentukan Jumlah Cluster Optimal (K)
 *   **Metode Elbow**: Menganalisis plot _inertia_ terhadap berbagai nilai K untuk mencari 'siku' yang menunjukkan titik optimal.
-*   **Analisis Siluet**: Menghitung _silhouette score_ untuk berbagai nilai K untuk mengukur seberapa baik objek dikelompokkan dalam clusternya sendiri dibandingkan dengan cluster lain.
+*   **Analisis Siluet**: Menghitung _silhouette score_ untuk berbagai nilai K untuk mengukur seberapa baik objek dikelompokkan
+dalam clusternya sendiri dibandingkan dengan cluster lain.
 *   Berdasarkan analisis kedua metode, **K=4** dipilih sebagai jumlah cluster optimal.
 
 ### 5. Menerapkan K-Means Clustering
