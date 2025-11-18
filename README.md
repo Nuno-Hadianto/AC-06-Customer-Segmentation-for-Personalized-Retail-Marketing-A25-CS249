@@ -56,9 +56,9 @@ sebaran cluster.
 ### 7. Interpretasi dan Insight Bisnis
 *   Setiap cluster dianalisis berdasarkan rata-rata RFM dan diberi nama deskriptif:
     *   **Cluster 0: Loyal Customers** (Recency sedang, Frequency sedang, Monetary sedang)
-    *   **Cluster 1: At-Risk/Lost Customers** (Recency sangat tinggi, Frequency rendah, Monetary rendah)
-    *   **Cluster 2: Whale/Best Spenders** (Recency sangat rendah, Frequency sangat tinggi, Monetary sangat tinggi)
-    *   **Cluster 3: Big Spenders / Potential Loyalists** (Recency rendah, Frequency tinggi, Monetary sangat tinggi)
+    *   **Cluster 1: At-Risk** (Recency sangat tinggi, Frequency rendah, Monetary rendah)
+    *   **Cluster 2: Best Spenders** (Recency sangat rendah, Frequency sangat tinggi, Monetary sangat tinggi)
+    *   **Cluster 3: Big Spenders** (Recency rendah, Frequency tinggi, Monetary sangat tinggi)
 *   Diberikan rekomendasi strategi pemasaran yang spesifik untuk setiap segmen pelanggan.
 *   **Validasi Cluster Lanjutan**: Melakukan uji ANOVA untuk Recency, Frequency, dan Monetary untuk memvalidasi bahwa
 perbedaan rata-rata antar cluster adalah signifikan secara statistik.
@@ -89,7 +89,7 @@ Proyek ini berhasil mengidentifikasi empat segmen pelanggan utama dengan karakte
 *   Merancang kampanye yang ditargetkan untuk setiap kelompok pelanggan.
 *   Meningkatkan retensi pelanggan dan nilai seumur hidup pelanggan (CLV).
 
-Rekomendasi strategi pemasaran yang diberikan untuk setiap cluster bertujuan untuk memaksimalkan potensi setiap segmen, mulai dari mempertahankan 'Whale/Best Spenders' hingga mereaktivasi 'At-Risk/Lost Customers'.
+Rekomendasi strategi pemasaran yang diberikan untuk setiap cluster bertujuan untuk memaksimalkan potensi setiap segmen, mulai dari mempertahankan 'Best Spenders' hingga mereaktivasi 'At-Risk'.
 
 ## Kesimpulan
 Segmentasi pelanggan menggunakan RFM dan K-Means Clustering adalah alat yang ampuh untuk memahami perilaku pelanggan dan mendorong pertumbuhan bisnis melalui strategi pemasaran yang didukung data.
