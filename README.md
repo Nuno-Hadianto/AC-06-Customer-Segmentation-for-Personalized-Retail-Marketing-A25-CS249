@@ -19,7 +19,8 @@ Proyek ini dibagi menjadi beberapa tahapan utama:
 
 ### 1. Pemuatan dan Pembersihan Data
 *   Memuat dataset dari file CSV (`Online Retail Data Set.csv`).
-*   Menangani nilai hilang (`CustomerID` dihapus karena krusial untuk analisis RFM, `Description` diabaikan).
+*   Menangani nilai hilang (`CustomerID` dihapus karena krusial untuk analisis RFM, `Description`
+diabaikan).
 *   Mengubah tipe data `CustomerID` menjadi integer.
 *   Membersihkan transaksi yang tidak valid (`Quantity <= 0` dan `UnitPrice <= 0`).
 *   Mengubah tipe data `InvoiceDate` menjadi format datetime.
