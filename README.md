@@ -35,7 +35,7 @@ diabaikan).
 
 ### 3. Normalisasi Data
 *   Menggunakan `StandardScaler` dari `sklearn.preprocessing` untuk menormalisasi metrik RFM (`Recency`, `Frequency`, `Monetary
-`). Ini penting agar setiap fitur berkontribusi secara proporsional dalam proses clustering.
+`) agar setiap fitur berkontribusi secara proporsional dalam proses clustering.
 
 ### 4. Menentukan Jumlah Cluster Optimal (K)
 *   **Metode Elbow**: Menganalisis plot _inertia_ terhadap berbagai nilai K untuk mencari 'siku' yang menunjukkan titik optimal.
@@ -73,7 +73,7 @@ Untuk mereplikasi analisis ini, ikuti langkah-langkah berikut:
 
 ### Instalasi Pustaka
 ```bash
-pip install pandas numpy scikit-learn matplotlib seaborn scipy
+pip install pandas numpy scikit-learn matplotlib seaborn scipy ( kalau menggunakan vscode )
 ```
 
 ### Dataset
@@ -84,7 +84,7 @@ Unduh dataset `Online Retail Data Set.csv` dari sumber seperti Kaggle dan letakk
 2.  Unggah atau buka file notebook yang berisi kode ini.
 3.  Jalankan setiap sel secara berurutan.
 
-## Hasil dan Rekomendasi
+## Hasil
 Proyek ini berhasil mengidentifikasi empat segmen pelanggan utama dengan karakteristik yang berbeda. Dengan memahami segmen-segmen ini, bisnis dapat:
 *   Mengalokasikan sumber daya pemasaran secara lebih efisien.
 *   Merancang kampanye yang ditargetkan untuk setiap kelompok pelanggan.
